@@ -12,7 +12,7 @@ class Tooltip extends React.Component {
   };
 
   static defaultProps = {
-    container: document.body,
+    container: null,
     position: 'top',
     fixed: true,
     space: 5
