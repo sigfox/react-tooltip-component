@@ -14,8 +14,8 @@
     "tooltip"
   ],
   "peerDependencies": {
-    "react": "0.14.x",
-    "react-dom": "0.14.x"
+    "react": "0.15.x",
+    "react-dom": "0.15.x"
   },
   "dependencies": {},
   "devDependencies": {
